@@ -1,0 +1,6 @@
+[submodule "flowroll-frontend"]
+	path = flowroll-frontend
+	url = git@github.com:LanreAkintayo/flowroll-frontend.git
+[submodule "flowroll-contract"]
+	path = flowroll-contract
+	url = git@github.com:LanreAkintayo/flowroll-contract.git

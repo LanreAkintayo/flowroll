@@ -1,0 +1,12 @@
+{
+  "project_name": "FlowRoll",
+  "repo_url": "https://github.com/you/flowroll",
+  "commit_sha": "fill this in last",
+  "rollup_chain_id": "your-chain-id",
+  "deployed_address": "0x...",
+  "vm": "evm",
+  "native_feature": "auto-signing",
+  "core_logic_path": "flowroll-contract/contracts/FlowRoll.sol",
+  "native_feature_frontend_path": "flowroll-frontend/src/components/AutoSign.tsx",
+  "demo_video_url": "https://youtu.be/..."
+}

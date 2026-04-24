@@ -285,7 +285,7 @@ cp .env.example .env
 npm start
 ```
  
-The agent will begin monitoring active cycles and calling `agentRebalance()` at the configured interval
+The agent will begin monitoring active cycles and calling `agentRebalance()` at the configured interval.
  
 ---
  

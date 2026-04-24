@@ -209,7 +209,7 @@ git submodule update --init --recursive
  
 ### 2. Start the appchain
  
-Flowroll runs on a local Initia appchain. Follow the official [Initia documentation](https://docs.initia.xyz) to install and configure Weave, then start your appchain:
+Flowroll runs on a local Initia appchain. Follow the official [Initia documentation](https://docs.initia.xyz/hackathon/get-started) to install and configure Weave, then start your appchain:
  
 ```bash
 weave rollup start -d

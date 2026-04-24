@@ -195,7 +195,7 @@ Make sure the following are installed before you begin:
 Clone with submodules in one command:
  
 ```bash
-git clone --recurse-submodules https://github.com/your-org/flowroll.git
+git clone --recurse-submodules https://github.com/LanreAkintayo/flowroll.git
 cd flowroll
 ```
  
@@ -285,7 +285,7 @@ cp .env.example .env
 npm start
 ```
  
-The agent will begin monitoring active cycles and calling `agentRebalance()` at the configured interval.
+The agent will begin monitoring active cycles and calling `agentRebalance()` at the configured interval
  
 ---
  

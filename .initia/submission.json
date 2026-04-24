@@ -1,12 +1,12 @@
 {
-  "project_name": "FlowRoll",
-  "repo_url": "https://github.com/you/flowroll",
+  "project_name": "Flowroll",
+  "repo_url": "https://github.com/LanreAkintayo/flowroll",
   "commit_sha": "fill this in last",
-  "rollup_chain_id": "your-chain-id",
-  "deployed_address": "0x...",
+  "rollup_chain_id": "flowroll-4",
+  "deployed_address": "0xd6d20E915031BdDCf8eF370d47BB2e8eADc3e01f",
   "vm": "evm",
   "native_feature": "auto-signing",
-  "core_logic_path": "flowroll-contract/contracts/FlowRoll.sol",
-  "native_feature_frontend_path": "flowroll-frontend/src/components/AutoSign.tsx",
-  "demo_video_url": "https://youtu.be/..."
+  "core_logic_path": "flowroll-contract/src/YieldRouter.sol",
+  "native_feature_frontend_path": "flowroll-frontend/src/components/shared/AutoSignToggle.tsx",
+  "demo_video_url": "https://youtu.be/nCA1GxCEMrs"
 }

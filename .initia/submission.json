@@ -1,7 +1,7 @@
 {
   "project_name": "Flowroll",
   "repo_url": "https://github.com/LanreAkintayo/flowroll",
-  "commit_sha": "fill this in last",
+  "commit_sha": "4d36145abfd47a8769ab6509da6b6a77ea500d72",
   "rollup_chain_id": "flowroll-4",
   "deployed_address": "0xd6d20E915031BdDCf8eF370d47BB2e8eADc3e01f",
   "vm": "evm",
